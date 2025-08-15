@@ -171,4 +171,5 @@ It demonstrates serial communication with configurable baud rates, oversampling 
 
 ## ⚖️ License
 
-Available for personal and educational use under the ![MIT License](https://github.com/VLSI-Shubh/UART/blob/4821647ea0092a14593d38e09b6923db8d5b82ec/License.txt)
+Available for personal and educational use under the [MIT License](https://github.com/VLSI-Shubh/UART/blob/4821647ea0092a14593d38e09b6923db8d5b82ec/License.txt)
+
